@@ -1,1 +1,2 @@
-erghtwuksfaejsfhahry
+#make a calculator
+a = input("")
