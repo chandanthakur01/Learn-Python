@@ -1,2 +1,3 @@
-#make a calculator
-a = input("")
+a = "ashish"
+print(len(a))
+print(a.capitalize())
