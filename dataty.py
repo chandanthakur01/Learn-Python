@@ -1,3 +1,4 @@
+#explicit conversiong
 string="15"
 number=7
 string_number=int(string)
