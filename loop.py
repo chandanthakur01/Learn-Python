@@ -1,2 +1,5 @@
-for chandan in range(10, 20,11):
-    print(chandan)
+clours ="red","yello","green","blue"
+for clour in clours:
+    print(clour)
+    for i in clour:
+        print(i)
